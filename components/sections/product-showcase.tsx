@@ -102,7 +102,7 @@ export default function ProductShowcase() {
               
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link 
-                  href="https://wa.me/212XXXXXXXXX?text=Bonjour%2C%20je%20souhaite%20commander%20le%20charbon%20écologique%20CHÊNECHAR."
+                  href="https://wa.me/212617803391?text=Bonjour%2C%20je%20souhaite%20commander%20le%20charbon%20écologique%20CHÊNECHAR."
                   target="_blank"
                   rel="noopener noreferrer"
                 >

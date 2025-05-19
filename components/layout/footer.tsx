@@ -73,11 +73,11 @@ export default function Footer() {
                 <strong className="text-white">Email:</strong> info@chenechar.com
               </li>
               <li className="text-gray-400">
-                <strong className="text-white">Téléphone:</strong> +212 XXXXXXXX
+                <strong className="text-white">Téléphone:</strong> +2126 17 80 33 91
               </li>
               <li className="text-gray-400">
                 <Link 
-                  href="https://wa.me/212XXXXXXXXX?text=Bonjour%2C%20je%20souhaite%20commander%20le%20charbon%20écologique%20CHÊNECHAR."
+                  href="https://wa.me/212617803391?text=Bonjour%2C%20je%20souhaite%20commander%20le%20charbon%20écologique%20CHÊNECHAR."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-green-500 hover:underline"

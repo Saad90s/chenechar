@@ -55,7 +55,7 @@ export default function CallToAction() {
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12">
             <Link 
-              href="https://wa.me/212XXXXXXXXX?text=Bonjour%2C%20je%20souhaite%20commander%20le%20charbon%20écologique%20CHÊNECHAR."
+              href="https://wa.me/212617803391?text=Bonjour%2C%20je%20souhaite%20commander%20le%20charbon%20écologique%20CHÊNECHAR."
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -74,7 +74,7 @@ export default function CallToAction() {
           <div className="flex flex-col sm:flex-row items-center justify-center gap-8">
             <div className="flex items-center">
               <Phone className="mr-3 h-5 w-5" />
-              <span>+212 XXXXXXXX</span>
+              <span>+2126 17 80 33 91</span>
             </div>
             <div className="flex items-center">
               <Mail className="mr-3 h-5 w-5" />
